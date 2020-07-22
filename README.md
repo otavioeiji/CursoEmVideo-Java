@@ -8,5 +8,10 @@ Exercícios do ótimo curso de Java do Curso em Video.
 
 [https://www.cursoemvideo.com](https://www.cursoemvideo.com)
 
+## Recursos utilizados
+
+- NetBeans
+
+
 ### Assista ao curso:
 [![Curso de Java](http://img.youtube.com/vi/sTX0UEplF54/0.jpg)](http://www.youtube.com/watch?v=sTX0UEplF54 "Curso em Video")
